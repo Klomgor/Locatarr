@@ -6,6 +6,26 @@
 			"github_slug": "Waterboy1602/Addarr"
 		},
 		{
+			"name": "Profilarr",
+			"description": "Configuration management tool for Radarr/Sonarr that automates importing and version control of custom formats and quality profiles",
+			"github_slug": "Dictionarry-Hub/profilarr"
+		},
+		{
+			"name": "Notifiarr",
+			"description": "Unified system to manage and customize Discord notifications for network monitoring, downtime, and health alerts",
+			"github_slug": "Notifiarr/notifiarr"
+		},
+		{
+			"name": "Pulsarr",
+			"description": "Pulsarr bridges Plex watchlists with Sonarr and Radarr for real-time media monitoring and automated content acquisition",
+			"github_slug": "jamcalli/Pulsarr"
+		},
+		{
+			"name": "Buildarr",
+			"description": "A solution to automating deployment and configuration of your *Arr stack",
+			"github_slug": "buildarr/buildarr"
+		},
+		{
 			"name": "Autobrr",
 			"description": "Modern torrent and Usenet download tool with automation inspired by Trackarr, Autodl-irssi, and Flexget",
 			"github_slug": "autobrr/autobrr"
